@@ -73,7 +73,6 @@ payload:
 - DOMAIN,lbs.netease.im
 - DOMAIN,wannos.127.net
 - DOMAIN,ac.dun.163.com
-- DOMAIN-SUFFIX,music.126.net
 - DOMAIN-SUFFIX,laiqukankan.com
 - DOMAIN-SUFFIX,music.ntes53.netease.com
 - IP-CIDR,101.71.154.241/32,no-resolve
