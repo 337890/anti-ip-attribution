@@ -152,7 +152,6 @@ payload:
 - DOMAIN,api.k.163.com
 - DOMAIN,lbs.netease.im
 - DOMAIN,wannos.127.net
-- DOMAIN-SUFFIX,music.126.net
 - DOMAIN,ac.dun.163.com
 - DOMAIN-SUFFIX,laiqukankan.com
 - DOMAIN-SUFFIX,music.ntes53.netease.com
