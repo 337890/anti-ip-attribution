@@ -26,3 +26,4 @@ payload:
 - DOMAIN,y.qq.com,DIRECT
 - DOMAIN,china-img.soulapp.cn,DIRECT
 - DOMAIN,img.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,m801.music.126.com,DIRECT
