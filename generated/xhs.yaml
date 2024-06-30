@@ -1,9 +1,6 @@
 payload:
-    # issue#4 提供
     - DOMAIN-SUFFIX,xiaohongshu.com
     - DOMAIN-KEYWORD,xiaohongshu
-    # issue#57
-    # edith.xiaohongshu.com的全球解析结果
     - IP-CIDR,114.55.236.88/32
     - IP-CIDR,47.97.64.97/32
     - IP-CIDR,47.97.66.48/32
